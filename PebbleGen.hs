@@ -1,6 +1,6 @@
 {-# LANGUAGE GeneralizedNewtypeDeriving, DeriveAnyClass #-}
 {-# LANGUAGE DeriveGeneric #-}
-module PebbleHask where
+module PebbleGen where
 import GHC.Generics (Generic)
 import Control.Monad
 import Data.HashMap
